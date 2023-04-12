@@ -56,94 +56,283 @@
       "rating": 7.75
     },
     {
-      "title": "Тестовая книга",
-      "author": "Я",
+      "id": 101,
+      "title": "The Nightingale",
+      "author": "Kristin Hannah",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "rating": 4.34
+    },
+    {
+      "id": 102,
+      "title": "Crazy Rich Asians",
+      "author": "Kevin Kwan",
+      "genres": [
+        "Romantic Comedy"
+      ],
+      "rating": 3.83
+    },
+    {
+      "id": 103,
+      "title": "The Testaments",
+      "author": "Margaret Atwood",
+      "genres": [
+        "Dystopian Fiction"
+      ],
+      "rating": 4.07
+    },
+    {
+      "id": 104,
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "rating": 4.35
+    },
+    {
+      "id": 105,
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "rating": 4.37
+    },
+    {
+      "id": 106,
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genres": [
+        "Memoir"
+      ],
+      "rating": 4.48
+    },
+    {
+      "id": 107,
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "genres": [
+        "Science Fiction"
+      ],
+      "rating": 4.41
+    },
+    {
+      "id": 108,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genres": [
+        "Young Adult"
+      ],
+      "rating": 4.33
+    },
+    {
+      "id": 109,
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "genres": [
+        "Thriller"
+      ],
+      "rating": 3.91
+    },
+    {
+      "id": 110,
+      "title": "The Help",
+      "author": "Kathryn Stockett",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "rating": 4.46
+    },
+    {
+      "id": 111,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genres": [
+        "Classics"
+      ],
+      "rating": 4.28
+    },
+    {
+      "id": 112,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "genres": [
+        "Science Fiction"
+      ],
+      "rating": 4.22
+    },
+    {
+      "id": 113,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genres": [
+        "Classics"
+      ],
+      "rating": 3.81
+    },
+    {
+      "id": 114,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "genres": [
+        "Magical Realism"
+      ],
+      "rating": 4.07
+    },
+    {
+      "id": 115,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genres": [
+        "Classics"
+      ],
+      "rating": 4.26
+    },
+    {
+      "id": 126,
+      "title": "The Time Traveler's Wife",
+      "author": "Audrey Niffenegger",
+      "genres": [
+        "Science Fiction"
+      ],
+      "rating": 4.09
+    },
+    {
+      "id": 127,
+      "title": "The Shadow of the Wind",
+      "author": "Carlos Ruiz Zafón",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "rating": 4.26
+    },
+    {
+      "id": 128,
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "genres": [
+        "Mystery"
+      ],
+      "rating": 4.11
+    },
+    {
+      "id": 129,
+      "title": "The Mysterious Benedict Society",
+      "author": "Trenton Lee Stewart",
+      "genres": [
+        "Children's Literature"
+      ],
+      "rating": 4.16
+    },
+    {
+      "id": 130,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genres": [
+        "Science Fiction"
+      ],
+      "rating": 4.33
+    },
+    {
+      "id": 131,
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "genres": [
+        "Self-help"
+      ],
+      "rating": 3.93
+    },
+    {
+      "id": 132,
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "genres": [
+        "Philosophy"
+      ],
+      "rating": 3.97
+    },
+    {
+      "id": 133,
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "genres": [
+        "Mystery"
+      ],
+      "rating": 3.91
+    },
+    {
+      "id": 134,
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genres": [
+        "Nonfiction"
+      ],
+      "rating": 4.06
+    },
+    {
+      "id": 135,
+      "title": "The Book of Life",
+      "author": "Deborah Harkness",
+      "genres": [
+        "Fantasy"
+      ],
+      "rating": 4.01
+    },
+    {
+      "id": 136,
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genres": [
+        "Mystery"
+      ],
+      "rating": 4.06
+    },
+    {
+      "id": 137,
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "genres": [
+        "Mystery"
+      ],
+      "rating": 4.14
+    },
+    {
+      "id": 138,
+      "title": "The Help",
+      "author": "Kathryn Stockett",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "rating": 4.46
+    },
+    {
+      "id": 139,
+      "title": "The Lightning Thief",
+      "author": "Rick Riordan",
+      "genres": [
+        "Children's Literature"
+      ],
+      "rating": 4.26
+    },
+    {
+      "id": 140,
+      "title": "A Walk to Remember",
+      "author": "Nicholas Sparks",
+      "genres": [
+        "Romance"
+      ],
+      "rating": 4.18
+    },
+    {
+      "title": "What you feel when meet JS",
+      "author": "Daniel Blake",
       "genres": [
         "JS"
       ],
-      "rating": 10,
-      "id": 7
-    },
-    {
-      "title": "Тестовая книга",
-      "author": "Я",
-      "genres": [
-        "JS"
-      ],
-      "rating": 10,
-      "id": 8
-    },
-    {
-      "title": "Большая тестовая книга по CSS",
-      "author": "Я",
-      "genres": [
-        "CSS"
-      ],
-      "rating": 9,
-      "id": 11
-    },
-    {
-      "title": "Тестовая книга по CSS",
-      "author": "Я",
-      "genres": [
-        "CSS"
-      ],
-      "rating": 9,
-      "id": 12
-    },
-    {
-      "title": "Большая новая тестовая книга по HTML",
-      "author": "Я",
-      "genres": [
-        "HTML"
-      ],
-      "rating": 7,
-      "id": 13
-    },
-    {
-      "title": "Тестовая книга по HTML",
-      "author": "Манго",
-      "genres": [
-        "HTML"
-      ],
-      "rating": 4,
-      "id": 17
-    },
-    {
-      "title": "Тестовая книга по CSS",
-      "author": "Я",
-      "genres": [
-        "CSS"
-      ],
-      "rating": 1,
-      "id": 18
-    },
-    {
-      "title": "Большая новая книга по NODEJS",
-      "author": "Я",
-      "genres": [
-        "HTML"
-      ],
-      "rating": 7,
-      "id": 19
-    },
-    {
-      "title": "Тестовая книга по CSS",
-      "author": "Я",
-      "genres": [
-        "CSS"
-      ],
-      "rating": 9,
-      "id": 20
-    },
-    {
-      "title": "Тестовая книга по CSS",
-      "author": "Я",
-      "genres": [
-        "CSS"
-      ],
-      "rating": 9,
-      "id": 21
+      "rating": 6.5,
+      "id": 141
     }
   ]
 }

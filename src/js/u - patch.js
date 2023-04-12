@@ -12,8 +12,8 @@ function updateBookById(update, bookId) {
   return fetch(`${BASE_URL}/books/${bookId}`, options).then(res => res.json());
 }
 
-// updateBookById({ title: 'Большая новая книга по NODEJS' }, 19);
+// updateBookById({ title: 'Why NODEJS' }, 19);
 
-// updateBookById({ rating: 1 }, 18);
+// updateBookById({ rating: 7 }, 8);
 
-// updateBookById({ rating: 4, author: 'Манго' }, 17);
+// updateBookById({ rating: 5, author: 'Josef Jankulowski' }, 17);
